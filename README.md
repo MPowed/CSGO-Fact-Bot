@@ -11,4 +11,4 @@ Very very basic program that takes a list of random facts and then types it into
 Notes  
   
 - You are welcome to edit the random facts file and add your own. People will ask about them so it is always nice to have SOME information about it  
-- The "ready" status of the random facts will time out after 30 seconds to avoid accidently typing random facts when you actually want to type something. Jst              start at step 1 again.
+- The "ready" status of the random facts will time out after 30 seconds to avoid accidently typing random facts when you actually want to type something. Just              start at step 1 again.
