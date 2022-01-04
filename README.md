@@ -8,6 +8,6 @@ Very very basic program that takes a list of random facts and then types it into
 
 
 Notes  
-- The 1st Message and 2nd Message files need to be edited if you want pre text to your randomn facts (i.e "A Random Fact For You")  
+- The things_to_say file should be edited to say things before the random fact "~0~" seperates two possible things you could say (i.e "A Random Fact For You")  
 - You are welcome to edit the random facts file and add your own. People will ask about them so it is always nice to have SOME information about it  
 - The "ready" status of the random facts will time out after 30 seconds to avoid accidently typing random facts when you actually want to type something. Just              start at step 1 again.
