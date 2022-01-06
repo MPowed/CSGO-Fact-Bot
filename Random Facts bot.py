@@ -121,7 +121,4 @@ def the_program():
 			if (timer-start_time).seconds >= time_limit:
 				program_switch = False
 
-time.sleep(3)
-
-#do_the_typing()
 the_program()
