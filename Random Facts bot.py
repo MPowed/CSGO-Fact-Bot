@@ -62,6 +62,7 @@ def wait_for_y():
 
 
 def do_the_typing(first):
+	# Do we want to say the first thing
 	first = first
 	# We want to second_pos to save
 	global second_pos
@@ -120,5 +121,5 @@ def the_program():
 			# Time out the program_switch so there are no accidental hits when going to actually type
 			if (timer-start_time).seconds >= time_limit:
 				program_switch = False
-
-the_program()
+if __name__ == "__main__":
+	the_program()
